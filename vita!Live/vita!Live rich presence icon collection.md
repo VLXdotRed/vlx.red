@@ -66,6 +66,22 @@
 
 
 
+- **SpongeBob HeroPants** (`PCSE00577`)
+
+<img src="https://vlx.red/vita!Live/PCSE00577.png" alt="sponge" style="zoom: 10%;" />
+
+
+
+- **Phineas and Ferb: Day of Doofenshmirtz** (`PCSF00718`)
+
+<img src="https://vlx.red/vita!Live/PCSF00718.png" alt="ff" style="zoom: 50%;" />
+
+
+
+
+
+
+
 #### PSP:
 
 
@@ -79,6 +95,10 @@
 **Daxter** (`NPEG00025`)
 
 **DiRT:tm: 2:tm:** (`ULUS10471`)
+
+
+
+**-------**
 
 
 
